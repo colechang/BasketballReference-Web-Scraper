@@ -1,5 +1,5 @@
-#Basketball Reference Web Scraper
-BasketballReference-Web-Scraper is a Python-based web scraping tool that allows you to extract basketball statistics and data from the popular website Basketball-Reference (https://www.basketball-reference.com/). This tool simplifies the process of collecting data for analysis, research, or any other purpose related to basketball statistics.
+# Basketball Reference Web Scraper
+Basketball Reference Web Scraper is a Python-based web scraping tool that allows you to extract basketball statistics and data from the popular website Basketball-Reference (https://www.basketball-reference.com/). This tool simplifies the process of collecting data for analysis, research, or any other purpose related to basketball statistics.
 Table of Contents
 
     Features
