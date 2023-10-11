@@ -70,12 +70,3 @@ Extract team statistics for the Los Angeles Lakers in the 2022-2023 season and s
 bash
 
     python basketball_scraper.py --season 2022-2023 --team "Los Angeles Lakers" --output-file lakers_stats.json
-
-Contributing
-
-We welcome contributions from the community! If you have any suggestions, bug reports, or want to add new features, please open an issue or submit a pull request. Make sure to read our Contributing Guidelines for more details.
-License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the terms of the license.
-
-Feel free to customize this README to include specific details about your project, installation instructions, usage examples, and any other relevant information. Additionally, make sure to provide a proper license and contributing guidelines if you plan to open source your project.
